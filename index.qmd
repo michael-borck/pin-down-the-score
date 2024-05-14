@@ -1,19 +1,52 @@
 ---
-title: Pin-down-the-score
+title: "Pin Down the Score: The Impact of Scoring Systems on Skill Differentiation in Ten-Pin Bowling"
 authors:
-  - name: Norah Jones
-    affiliation: The University
-    roles: writing
+  - name: "Michael Borck"
+    affiliation: "Business Information Systems, Curtin University, Perth Australia"
+    orcid: 0000-0002-0950-6396
     corresponding: true
+    email: michael.borck@curtin.edu.au
+    roles:
+      - Investigation
+      - Project administration
+      - Software
+      - Visualisation
+keywords:
+  - Ten-Pin Bowling
+  - Scoring Systems
+  - Skill Differentiation
+  - Statistical Analysis
+  - Simulation
+abstract: | 
+  This paper examines the skill and luck components in ten-pin bowling under
+  two different scoring systems: traditional and World Bowling's current-frame
+  scoring. Using computational models to simulate millions of potential games,
+  we analyse score distributions and the frequency of achieving specific scores.
+  We hypothesise that traditional scoring requires more skill due to the limited
+  ways of achieving each score, whereas World Bowling's system introduces more
+  variability and a potential increase in luck due to multiple scoring paths
+  leading to similar results. Through statistical analysis and simulation, we
+  aim to show that traditional scoring demands a higher level of skill,
+  strategic thinking, and consistency, making it particularly suitable for
+  professional play where distinguishing based on skill is crucial.
+plain-language-summary: | 
+  This paper compares traditional and World Bowling scoring systems in ten-pin
+  bowling. Using simulations and statistical analysis, it shows traditional
+  scoring requires more skill and strategy, while World Bowling scoring is more
+  influenced by luck. The findings suggest traditional scoring better
+  distinguishes player skill, ideal for professional play.
+key-points:
+  - The paper compares traditional and World Bowling scoring systems to understand their impact on ten-pin bowling performance.
+  - Traditional scoring demands more skill and strategy, while World Bowling scoring introduces more variability and is more influenced by luck.
+  - Using simulations and statistical analyses, the study evaluates score distributions and player performance metrics under both systems.
+  - The findings suggest that traditional scoring is better suited for professional play as it effectively differentiates player skill levels.
+  - The study highlights the importance of considering the impact of scoring systems on the game's dynamics and player performance, advocating for traditional scoring in professional contexts.
+date: last-modified
 bibliography: references.bib
+citation:
+  container-title: Curtin University
+number-sections: true
 ---
-
-# Pin Down the Score: The Impact of Scoring Systems on Skill Differentiation in Ten-Pin Bowling
-
-## Abstract
-
-This paper examines the skill and luck components in ten-pin bowling under two different scoring systems: traditional and World Bowling's current-frame scoring. Using computational models to simulate millions of potential games, we analyze score distributions and the frequency of achieving specific scores. We hypothesize that traditional scoring requires more skill due to the limited ways of achieving each score, whereas World Bowling's system introduces more variability and a potential increase in luck due to multiple scoring paths leading to similar results. Through statistical analysis and simulation, we aim to show that traditional scoring demands a higher level of skill, strategic thinking, and consistency, making it particularly suitable for professional play where distinguishing based on skill is crucial.
-
 
 ## Introduction
 
@@ -28,13 +61,13 @@ This paper examines the skill and luck components in ten-pin bowling under two d
 - Research on the impact of scoring systems in sports (e.g., bowling, golf, etc.).
 - Studies on skill vs. luck in competitive sports.
 - Previous works on ten-pin bowling scoring systems.
-- Relevant statistical methodologies for analyzing game outcomes.
+- Relevant statistical methodologies for analysing game outcomes.
 
 ## Methods
 
 ### Data Sources
 
-- **Balmoral Software Table Data**: Utilized to compare all possible game outcomes for traditional and World Bowling scoring systems.
+- **Balmoral Software Table Data**: Utilised to compare all possible game outcomes for traditional and World Bowling scoring systems.
 - **Professional Bowlers Association (PBA) Data**: Strike and spare percentages for professional bowlers.
 - **Simulation Data**: Generated using Python code to simulate 10-frame games based on strike and spare percentages.
 
@@ -88,10 +121,7 @@ This paper examines the skill and luck components in ten-pin bowling under two d
 
 Our analysis supports the hypothesis that traditional scoring in ten-pin bowling requires more skill than World Bowling's current-frame scoring system. Traditional scoring's complexity and cumulative effects of strikes and spares demand higher strategic planning and consistency from players. In contrast, World Bowling scoring introduces more variability and potentially more luck, making it more accessible for casual players but less effective in distinguishing skill levels in professional play. This study underscores the importance of considering scoring systems' impacts on the sport's dynamics and player performance.
 
-
-
 ## Future Work
 
 - Real-world performance analysis of players under both scoring systems.
 - Psychological impacts of scoring systems on player performance and enjoyment.
-
