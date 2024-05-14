@@ -13,7 +13,6 @@ ten-pin bowling.
 - **`index.qmd`**: The Quarto manuscript file containing the full paper, which generates multiple outputs (HTML, PDF, DOCX).
 - **`code/`**: Python scripts for simulating bowling games and performing statistical analyses.
 - **`data/`**: Datasets used in the analysis, including tables from Balmoral Software and simulated game data.
-- **`resources/`**: Supporting materials such as ideas, snippets, AI conversations, references, and links.
 - **`outputs/`**: Generated outputs of the paper in different formats (HTML, PDF, DOCX).
 - **`README.md`**: This file, providing an overview of the project and its structure.
 
