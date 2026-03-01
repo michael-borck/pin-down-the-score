@@ -1,5 +1,9 @@
 # Pin Down the Score: The Impact of Scoring Systems on Skill Differentiation in Ten-Pin Bowling
 
+<!-- BADGES:START -->
+[![consolidation](https://img.shields.io/badge/-consolidation-blue?style=flat-square)](https://github.com/topics/consolidation) [![from-org](https://img.shields.io/badge/-from--org-blue?style=flat-square)](https://github.com/topics/from-org) [![migrated](https://img.shields.io/badge/-migrated-blue?style=flat-square)](https://github.com/topics/migrated) [![research](https://img.shields.io/badge/-research-3f51b5?style=flat-square)](https://github.com/topics/research) [![bowling](https://img.shields.io/badge/-bowling-blue?style=flat-square)](https://github.com/topics/bowling) [![comparative-study](https://img.shields.io/badge/-comparative--study-blue?style=flat-square)](https://github.com/topics/comparative-study) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![quarto](https://img.shields.io/badge/-quarto-blue?style=flat-square)](https://github.com/topics/quarto) [![simulation](https://img.shields.io/badge/-simulation-blue?style=flat-square)](https://github.com/topics/simulation) [![sports-analytics](https://img.shields.io/badge/-sports--analytics-blue?style=flat-square)](https://github.com/topics/sports-analytics)
+<!-- BADGES:END -->
+
 ## Overview
 
 This repository contains the materials and source code for the paper **"Pin Down
